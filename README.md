@@ -17,7 +17,7 @@ This stand provides a stable, angled mounting solution for your Waveshare displa
 - Infill: 100%
 - Supports: Likely required
 - Material: PLA or PETG
-- Display cutout should measure 111.30mm x 74mm
+- Display cutout must measure 111.30mm x 74mm
 
 ## License
 
