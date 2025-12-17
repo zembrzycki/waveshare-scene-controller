@@ -33,7 +33,10 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)
 <img width="645" height="445" alt="Screenshot 2025-12-07 at 12 48 18 pm" src="https://github.com/user-attachments/assets/d17fdb34-37af-412a-a5c9-7c63416c6508" />
 
 
-## Data Sheet
+## Data Sheets
 
 
 ![ESP32-S3-Touch-LCD-4 3B-details-size-2](https://github.com/user-attachments/assets/096fb355-d41c-497f-aec6-a9fe96f55b1a)
+
+![17167836950](https://github.com/user-attachments/assets/370b8123-88f4-4a4f-af32-724dbde5505f)
+
